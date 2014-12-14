@@ -1,0 +1,11 @@
+1. '$username': Variable for username of user
+2. '$paswword': Variable for password of user
+3. '$email': Variable for email of user
+3. '$nameErr','$passErr','$emailErr' : Variables for form validation
+
+
+
+1.If a friend(F1) sends request and other friend(F2) accepts, then F1 will be friend of F2 as well as F2 will be friend of F1
+2.In Friends page added extra column for Pending friend requests to know user that he already added that user
+3.for CSS i used bootstrap and complicated stuff is explained in code
+4.sql file also included named "ambitionbox.sql"
